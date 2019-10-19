@@ -1,4 +1,6 @@
 #!/bin/python3
+# Problem description: https://www.hackerrank.com/challenges/swap-nodes-algo/
+# GitHub: https://github.com/kwasnydam
 
 import os
 import queue
@@ -86,10 +88,6 @@ class Tree:
         self._depth = level
         self._levels_nodes_map = level_nodes_map
 
-def swapNodes(indexes, queries):
-    tree = build_tree(indexes)
-    return execute_swap_queries(tree, queries)
-
 def build_tree(indexes):
     root = Node(value = 1)
     created_nodes = [root]
@@ -122,6 +120,10 @@ def get_query_multiplies(query, limit):
          query_multiples.append(k*query)
          k += 1
     return query_multiples
+
+def swapNodes(indexes, queries):
+    tree = build_tree(indexes)
+    return execute_swap_queries(tree, queries)
 
 
 if __name__ == '__main__':
