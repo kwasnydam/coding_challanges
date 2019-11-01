@@ -1,3 +1,7 @@
+#!/bin/python3
+# Problem description: https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/
+# GitHub: https://github.com/kwasnydam
+
 from collections import deque
 EDGE_WEIGHT = 6
 

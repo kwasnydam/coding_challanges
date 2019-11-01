@@ -1,5 +1,8 @@
-import os
+#!/bin/python3
+# Problem description: https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/
+# GitHub: https://github.com/kwasnydam
 
+import os
 
 def maxRegion(grid):
     seen = set()
