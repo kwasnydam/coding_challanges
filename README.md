@@ -21,3 +21,5 @@ All implementations are done in _python3_.
 |[pairs](https://www.hackerrank.com/challenges/pairs)   | [python3](https://github.com/kwasnydam/coding_challanges/tree/master/hackerrank/pairs/pairs.py)  |   |
 |[swap nodes](https://www.hackerrank.com/challenges/swap-nodes)   | [python3](https://github.com/kwasnydam/coding_challanges/tree/master/hackerrank/swap_nodes/source/swap_nodes.py)  |   |
 |[triple sum](https://www.hackerrank.com/challenges/triple-sum)   | [python3](https://github.com/kwasnydam/coding_challanges/tree/master/hackerrank/triple_sum/triple_sum.py)  |   |
+|[bfs shortest reach in graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach)     |  [python3](https://github.com/kwasnydam/coding_challanges/blob/master/hackerrank/bfs_shortest_reach_in_graph/bfs_shortest_reach_in_graph.py) |   |
+| [dfs connected cell in a grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/) | [python3](https://github.com/kwasnydam/coding_challanges/blob/master/hackerrank/dfs_connected_cell_in_a_grid/dfs_connected_cell_in_a_grid.py)  |   |
